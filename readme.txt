@@ -1,1 +1,1 @@
-Stage 1 task of HNG internship :-)
+This is the Stage 1 task of HNG internship :-)
